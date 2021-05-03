@@ -1,0 +1,11 @@
+{
+    "websocket": {
+        "http_protocol": "http://",
+        "ws_protocol": "ws://",
+        "host": "localhost",
+        "port": 33441
+    },
+    "php_server": {
+        "url": "http://localhost:33440"
+    }
+}
